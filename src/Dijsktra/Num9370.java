@@ -1,3 +1,5 @@
+package Dijsktra;
+
 import java.io.*;
 import java.util.*;
 
